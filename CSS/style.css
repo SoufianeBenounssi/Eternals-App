@@ -309,7 +309,7 @@ header a img{
 .output {
     color: rgb(117, 0, 0);
     position: relative;
-    top: 14rem;
+    top: 10rem;
     width: 100%;
 }
 
@@ -338,7 +338,7 @@ header a img{
     border-radius: 5px;
     background-color: #282828b1;
     position: relative;
-    top: -13.3rem;
+    top: -10.3rem;
     left: -.2rem;
     text-decoration: none;
     color: white;
